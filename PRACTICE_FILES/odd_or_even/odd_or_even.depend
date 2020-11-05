@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1567177710 source:c:\users\user1\desktop\c lern\odd_or_even\odd_even.c
+	<stdio.h>
+	<stdlib.h>
+

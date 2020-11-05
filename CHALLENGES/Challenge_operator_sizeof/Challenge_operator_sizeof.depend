@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1566461193 source:c:\users\user1\desktop\c lern\challenge_operator_sizeof\sizeof.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1568800068 source:c:\users\user1\desktop\c lern\playing_with_string_functions\str_fun_challenge.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

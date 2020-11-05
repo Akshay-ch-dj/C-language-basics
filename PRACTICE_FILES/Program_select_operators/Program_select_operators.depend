@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1567233167 source:c:\users\user1\desktop\c lern\program_select_operators\operator_selection.c
+	<stdio.h>
+	<stdlib.h>
+

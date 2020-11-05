@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1567757938 source:c:\users\user1\desktop\c lern\tik_tak_toe_challenge\tik_tac_toe.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
